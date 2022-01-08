@@ -7,3 +7,4 @@ Compile it with
 > gcc main.c -lm
 
 ![](/images/screenshot.png "screenshot")
+![](/images/untitled.gif "screenshot")
